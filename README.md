@@ -24,7 +24,7 @@ To be determined more, below is a basic outline. Colors are not allowed, so need
 * Quest name is to be listed at the very top of every Quest.
 * Requirements for a quest are to be listed clearly.
 * Reminder to escape all special characters when using Markdown formatting.
-* All items, spells, and locations should be linked to the Movoda wiki pages.
+* All items, spells, and locations should be linked to the Movoda wiki pages. All links should be italic, to show they go to an external site.
 * Movoda and Vessi, city names, Item Names, spells, and Skills should always have the first later capitalized. 
 ### Notes
 We do not want to direct players on what we think a player should do. We all know the saying about opinions. Therefore we only want facts listed on quests.

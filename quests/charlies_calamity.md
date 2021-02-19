@@ -1,12 +1,12 @@
 ### Charlie's Calamity
 
 #### Starts:
-* Mount Pharos
+* _[Mount Pharos](https://movoda.net/man/Mount%20Pharos)_
 
 #### Requirements:
 * Woodcutting Level 35
-* Completed Legendary Woodcutting 02 Quest
-* Completed Logging Camp Quest
+* Completed [Legendary Woodcutting 02] Quest
+* Completed [Logging Camp] Quest
 
 ---
 In the distance you hear a small explosion 
@@ -37,7 +37,7 @@ Ahead of you there is a smouldering pile of rubble which could have once been a 
 
 ---
 ##### Quest Log:
-> Chop 500 Logs in Jiroka and bring them back to Mt Pharos, logs remaining: 500
+> Chop 500 _[Logs](https://movoda.net/man/Logs)_ in _[Jiroka](https://movoda.net/man/Jiroka)_ and bring them back to _[Mount Pharos](https://movoda.net/man/Mount%20Pharos)_.
 
 "Oh great you're back!" Charlie says with delight when he sees you. "I was about to give up on you and go get some myself." 
 
@@ -66,11 +66,11 @@ As the dust settles Charlie comes over to where you are cowering "Yep, must be t
 "What? Of course it's the logs, the machine is perfect!" he says indignantly. "In fact I'll prove it. Go get me some more fuel but make sure they come from Radom this time"
 
 ##### Rewards: 
-> You got 2,000 vessi
+> You got 2,000 Vessi
 
 ---
 ##### Quest Log:
-> Chop 500 Logs in Radom Woods and bring them back to Mt. Pharos, logs remaining: 500
+> Chop 500 _[Logs](https://movoda.net/man/Logs)_ in _[Radom Woods](https://movoda.net/man/RadomWoods)_ and bring them back to _[Mount Pharos](https://movoda.net/man/Mount%20Pharos)_.
 
 "Finally!" Charlie says as he sees you approach. "You know, for a woodcutter you're not very fast. No matter, you're here now. You did get them from Radom this time right?" 
 
@@ -95,7 +95,7 @@ Charlie looks thoughtful for a moment before replying "Could try that Ashia plac
 
 ---
 ##### Quest log:
-> Chop 1000 Logs from the Logging camp in Ashia and bring them back to Mt.Pharos, logs remaining: 1,000
+> Chop 1000 _[Logs](https://movoda.net/man/Logs) _from the Logging camp in _[Ashia](https://movoda.net/man/Ashia)_ and bring them back to _[Mount Pharos](https://movoda.net/man/MountPharos)_.
 
 You notice that Charlie seems to have rebuilt his hut and has made a few additions to it. 
 
@@ -140,6 +140,6 @@ Charlie lets go of the rope and takes out his notebook and begins scribbling fur
 "Needs some kind of braking system I think" mutters Charlie. "Oh right, your payment of course. Here take this with my thanks for all your hard work. If you're ever looking for an invention you know where to find me!"
 
 ##### Rewards: 
-> You got 4,000 vessi
+> You got 4,000 Vessi
 > You got 8,000 Woodcutting experience
-> You got 1 Diamond-Tipped Hatchet
+> You got 1 _[Diamond-Tipped Hatchet](https://movoda.net/man/Diamond-Tipped%20Hatchet)_
