@@ -1,5 +1,5 @@
----------------------------------------------------------------
-• Pioneers #3 – Will you help?
+### Pioneers 03 - Will You Help?
+
 Req: Completed The second encounter Smithing level < 39 Combat level < 29
 Starts: lake trand
 

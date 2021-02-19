@@ -1,6 +1,9 @@
-Start at Cardina Valley
+### Rebel's Alliance
 
-Need to have
+#### Start:
+* Cardina Valley
+
+#### Required:
 •Steel Hammer Equipped
 •Adamantite-Tipped Whip Equipped
 •Smithing level 35?
@@ -37,16 +40,15 @@ We would pay you what little we are able. Would you help us?"
 but we do not have the skill to smelt it.
 You can begin by heading to Cardina and smelting our bauxite into aluminum bars
 while I figure up exactly what we need. While you are in town,
-coud you also trade this gem for about 400 meatloaves? We appreciate your help, friend."
+could you also trade this gem for about 400 meatloaves? We appreciate your help, friend."
 
-You got 70 Coal
-You got 1 Emerald
-You got 280 Bauxite
+> You got 70 Coal
+> You got 1 Emerald
+> You got 280 Bauxite
 
-------------------------------
+##### Quest Log:
 # After smelting the aluminum return to Cardina Valley with 400 meatloaves
-# Smelt 70 aluminum bars at Cardina, remaining: 70
-------------------------------
+# Smelt 70 aluminum bars at Cardina
 
 Cardina Valley
 
@@ -62,16 +64,14 @@ our cook was also wondering if you could make him a couple lighters,
 they keep breaking on him, and better wear your armor,
 we've seen the Faldorian Royal Guard hanging about in the area."
 
-------------------------------
-# Smith 1 Full Aluminum Helm, remaining: 1
-# Smith 3 Aluminum Gauntlets, remaining: 3
-# Smith 6 Aluminum Quarterstaves, remaining: 6
-# Smith 4 Aluminum Helmets, remaining: 4
-# Smith 2 Aluminum Clogs, remaining: 2
-# Smith 1 Aluminum Shinguards, remaining: 1
-# Smith 2 Lighters, remaining: 2
+> Smith 1 Full Aluminum Helm
+> Smith 3 Aluminum Gauntlets
+> Smith 6 Aluminum Quarterstaves
+> Smith 4 Aluminum Helmets
+> Smith 2 Aluminum Clogs
+> Smith 1 Aluminum Shinguards
+> Smith 2 Lighters
 # After smithing their equipment return to the rebels in Cardina Valley
-------------------------------
 
 Cardina Valley
 
