@@ -9,6 +9,7 @@ If it is dialect by the quest giver or player response to the quest giver it is 
 ### Formatting
 More information on how to format can be found here https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 To be determined more, below is a basic outline. Colors are not allowed, so need to figure out the best way to show quests.
+Using [Charlie's Calamity](https://github.com/Midnex/MovodaQuests/blob/main/quests/charlies_calamity.md) as a guide is best
 * Cities should always be in Italic with links.
 * Items/NPCs/Enemies/Spells should always be bold if not within quest text (exception is quest log, and rewards).
 * Quest choices should always be un an unordered bullet list.
