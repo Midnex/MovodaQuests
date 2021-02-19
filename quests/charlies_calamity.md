@@ -1,9 +1,9 @@
 ### Charlie's Calamity
 
-##### Starts:
+#### Starts:
 * Mount Pharos
 
-##### Requirements:
+#### Requirements:
 * Woodcutting Level 35
 * Completed Legendary Woodcutting 02 Quest
 * Completed Logging Camp Quest
@@ -36,7 +36,7 @@ Ahead of you there is a smouldering pile of rubble which could have once been a 
 "Oh that's great, and as an extra bonus I will show you what my latest project is once you get back! All top secret stuff you know but I can tell you can keep a secret" he says with a wink. "Now don't be too long!"
 
 ---
-###### Quest Log:
+##### Quest Log:
 > Chop 500 Logs in Jiroka and bring them back to Mt Pharos, logs remaining: 500
 
 "Oh great you're back!" Charlie says with delight when he sees you. "I was about to give up on you and go get some myself." 
@@ -65,11 +65,11 @@ As the dust settles Charlie comes over to where you are cowering "Yep, must be t
 
 "What? Of course it's the logs, the machine is perfect!" he says indignantly. "In fact I'll prove it. Go get me some more fuel but make sure they come from Radom this time"
 
-###### Rewards: 
+##### Rewards: 
 > You got 2,000 vessi
 
 ---
-###### Quest Log:
+##### Quest Log:
 > Chop 500 Logs in Radom Woods and bring them back to Mt. Pharos, logs remaining: 500
 
 "Finally!" Charlie says as he sees you approach. "You know, for a woodcutter you're not very fast. No matter, you're here now. You did get them from Radom this time right?" 
@@ -90,11 +90,11 @@ The explosion seems louder than before if that is possible. Standing up you look
 
 Charlie looks thoughtful for a moment before replying "Could try that Ashia place again I suppose. Might need a few more this time since you destroyed my hut."
 
-###### Rewards: 
+##### Rewards: 
 > You got 2,000 vessi
 
 ---
-###### Quest log:
+##### Quest log:
 > Chop 1000 Logs from the Logging camp in Ashia and bring them back to Mt.Pharos, logs remaining: 1,000
 
 You notice that Charlie seems to have rebuilt his hut and has made a few additions to it. 
@@ -139,7 +139,7 @@ Charlie lets go of the rope and takes out his notebook and begins scribbling fur
 
 "Needs some kind of braking system I think" mutters Charlie. "Oh right, your payment of course. Here take this with my thanks for all your hard work. If you're ever looking for an invention you know where to find me!"
 
-###### Rewards: 
+##### Rewards: 
 > You got 4,000 vessi
 > You got 8,000 Woodcutting experience
 > You got 1 Diamond-Tipped Hatchet
