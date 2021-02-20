@@ -1,8 +1,9 @@
-### 
+### Chef Alphonse's Apprentice 01
 #### Author:
-_[](http://movoda.net/man/)_
-
+_[Baron Plains](http://movoda.net/man/BaronPlains)_
 #### Starting Place:
-_[](http://movoda.net/man/)_
+_[Angelbaby](http://movoda.net/man/angelbaby)_
 
 #### Requirements:
+> Cooking Level 22
+> Completed Forgot The Ingredients?

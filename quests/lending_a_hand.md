@@ -1,8 +1,10 @@
-### 
+### Lending a Hand
 #### Author:
-_[](http://movoda.net/man/)_
+_[Mskwik](http://movoda.net/man/mskwik)_
 
 #### Starting Place:
-_[](http://movoda.net/man/)_
+_[Echtin](http://movoda.net/man/Echtin)_
 
 #### Requirements:
+> Character Level 3
+> 20 Vessi
