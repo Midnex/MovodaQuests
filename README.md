@@ -9,7 +9,7 @@ If it is dialect by the quest giver or player response to the quest giver it is 
 ### Formatting
 More information on how to format can be found here https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 To be determined more, below is a basic outline. Colors are not allowed, so need to figure out the best way to show quests.
-Using [Charlie's Calamity](https://github.com/Midnex/MovodaQuests/blob/main/quests/charlies_calamity.md) as a guide is best
+Using [Charlie's Calamity](https://github.com/Midnex/MovodaQuests/blob/main/quests/charlies_calamity.md) as a guide is best.
 * Cities should always be in Italic with links.
 * Items/NPCs/Enemies/Spells should always be bold if not within quest text (exception is quest log, and rewards).
 * Quest choices should always be un an unordered bullet list.
@@ -27,6 +27,7 @@ Using [Charlie's Calamity](https://github.com/Midnex/MovodaQuests/blob/main/ques
 * Reminder to escape all special characters when using Markdown formatting.
 * All items, spells, and locations should be linked to the Movoda wiki pages. All links should be italic, to show they go to an external site.
 * Movoda and Vessi, city names, Item Names, spells, and Skills should always have the first later capitalized. 
+* Make sure to add the author name for quests and link to their Movoda wiki.
 ### Notes
 We do not want to direct players on what we think a player should do. We all know the saying about opinions. Therefore we only want facts listed on quests.
 * Notes are not allowed
