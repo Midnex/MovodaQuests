@@ -1,8 +1,12 @@
-### 
+### Antidote
 #### Author:
-_[](http://movoda.net/man/)_
+_[Angelbaby](http://movoda.net/man/Angelbaby)_
 
 #### Starting Place:
-_[](http://movoda.net/man/)_
+_[Marossa](http://movoda.net/man/Marossa)_
 
 #### Requirements:
+* Completed Trading with Marossa
+
+---
+** Quest Dialog Missing **

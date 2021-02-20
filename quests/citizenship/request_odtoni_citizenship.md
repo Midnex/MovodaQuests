@@ -9,7 +9,7 @@ _[Ravel](http://movoda.net/man/Ravel)_
 * Neutral Citizenship
 
 ---
-** Quest Missing Dialog **
+** Quest Dialog Missing **
 
 ##### Quest Log:
 > Bring 50 code books to the Odtoni vault in Giroc

@@ -8,3 +8,6 @@ _[Echtin](http://movoda.net/man/Echtin)_
 #### Requirements:
 > Character Level 3
 > 20 Vessi
+
+---
+** Quest Dialog Missing **

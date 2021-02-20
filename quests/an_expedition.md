@@ -1,8 +1,16 @@
-### 
+### An Expedition
 #### Author:
-_[](http://movoda.net/man/)_
+_[JustBatman](http://movoda.net/man/JustBatman)_
 
 #### Starting Place:
-_[](http://movoda.net/man/)_
+_[Port Schow](http://movoda.net/man/PortSchow)_
 
 #### Requirements:
+* Completed [Deliveries]
+* Completed [The Royal Bass]
+* Faldorian Citizenship
+* Level 3 Mining
+* Level 3 Smithing
+
+---
+** Quest Dialog Missing **

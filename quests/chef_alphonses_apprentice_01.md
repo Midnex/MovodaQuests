@@ -7,3 +7,6 @@ _[Angelbaby](http://movoda.net/man/angelbaby)_
 #### Requirements:
 > Cooking Level 22
 > Completed Forgot The Ingredients?
+
+---
+** Quest Dialog Missing **

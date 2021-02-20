@@ -5,3 +5,6 @@ _[Baron Plains](http://movoda.net/man/BaronPlains)_
 _[Angelbaby](http://movoda.net/man/angelbaby)_
 
 #### Requirements:
+
+---
+** Quest Dialog Missing **

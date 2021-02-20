@@ -10,7 +10,7 @@ _[Bulbas](http://movoda.net/man/Bulbas)_
 * Character Level 15
 
 ---
-** Dialog Missing **
+** Quest Dialog Missing **
 
 ##### Quest Log:
 > Chop 600 logs at Cythe for the council member and deliver them to Bulbas

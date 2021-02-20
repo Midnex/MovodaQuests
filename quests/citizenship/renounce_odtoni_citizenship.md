@@ -6,11 +6,11 @@ _[Mskwik](http://movoda.net/man/Mskwik)_
 _[Ravel](http://movoda.net/man/Ravel)_
 
 #### Requirements:
-> Odtoni Citizenship
-> Character Level 15
+* Odtoni Citizenship
+* Character Level 15
 
 ---
-** Missing Dialog **
+** Quest Dialog Missing **
 
 ##### Quest Log:
 > Mine 1,000 stone blocks

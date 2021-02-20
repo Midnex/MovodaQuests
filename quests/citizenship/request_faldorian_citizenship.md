@@ -9,7 +9,7 @@ _[Port Schow](http://movoda.net/man/PortSchow)_
 * Neutral Citizenship
 
 ---
-** Quest Missing Dialog **
+** Quest Dialog Missing **
 
 ##### Quest Log:
 > Visit the Queen in Echtin with an Amber
